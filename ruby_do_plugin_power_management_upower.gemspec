@@ -31,6 +31,7 @@ Gem::Specification.new do |s|
     "gfx/system-suspend-hibernate.png",
     "gfx/system-suspend.png",
     "lib/ruby_do_plugin_power_management_upower.rb",
+    "ruby_do_plugin_power_management_upower.gemspec",
     "spec/ruby_do_plugin_power_management_upower_spec.rb",
     "spec/spec_helper.rb"
   ]
