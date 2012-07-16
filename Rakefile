@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ruby_do_plugin_power_management_upower"
   gem.homepage = "http://github.com/kaspernj/ruby_do_plugin_power_management_upower"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A plugin for Ruby-Do that can log out, suspend, hibernate and shut the computer down.}
+  gem.description = %Q{A plugin for Ruby-Do that can log out, suspend, hibernate and shut the computer down.}
   gem.email = "k@spernj.org"
   gem.authors = ["Kasper Johansen"]
   # dependencies defined in Gemfile
